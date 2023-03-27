@@ -1,5 +1,5 @@
-//Juego de los pancakes por DFS//
-/*Elizabeth Loaeza Morales, ITC, 6to semestre. Inteligencia Artificial I*/
+//Juego de los pancakes por búsqueda en profundidad//
+/*Trabajo realizado pára la materia de Inteligencia Artificial*/
 
 #include <stdio.h>
 #include <stdlib.h>
